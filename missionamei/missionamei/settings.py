@@ -13,7 +13,8 @@ SECRET_KEY = '#$f@kd7x^0mgkit^38c$-+b8st=c2x93_y$r&udpel4jktr_i!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://mymissionamei-env.dbfhrbxgbj.us-east-1.elasticbeanstalk.com/']
+# ALLOWED_HOSTS = ['http://mymissionamei-env.dbfhrbxgbj.us-east-1.elasticbeanstalk.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
